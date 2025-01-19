@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Sandesh More](https://www.linkedin.com/in/samore04/) ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+## Hi there 👋, I'm [Sandesh More](https://www.linkedin.com/in/samore04/) 
 
 
 - Software Engineer by profession.
@@ -8,6 +8,7 @@
 
 
 ### OSS Contributions
+### Project: **Kyverno**
 | PR Number | Title                                                                                           |
 |-----------|-------------------------------------------------------------------------------------------------|
 | [#11811](https://github.com/kyverno/kyverno/pull/11811) | Fix: Policy with failureActionOverrides not applying desired failure actions in desired namespaces |
