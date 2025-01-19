@@ -1,4 +1,5 @@
-## Hi there 👋, I'm [Sandesh More](https://www.linkedin.com/in/samore04/)
+## Hi there 👋, I'm [Sandesh More](https://www.linkedin.com/in/samore04/) ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
 
 - Software Engineer by profession.
 - I write code in python and golang.
