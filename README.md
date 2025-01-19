@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋, I'm [Sandesh More](https://www.linkedin.com/in/samore04/)
 
-<!--
-**sandeshlmore/sandeshlmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Software Engineer by profession.
+- I write code in python and golang.
+- I’m currently exploring all things related to Go, containers, kubernetes, networking, and storage.
+- Pronouns: He/Him
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### OSS Contributions
+| PR Number | Title                                                                                           |
+|-----------|-------------------------------------------------------------------------------------------------|
+| [#11811](https://github.com/kyverno/kyverno/pull/11811) | Fix: Policy with failureActionOverrides not applying desired failure actions in desired namespaces |
+| [#4524](https://github.com/kyverno/kyverno/pull/4524)   | added kubeconfig and context flag to kyverno apply                                                        |
+| [#5246](https://github.com/kyverno/kyverno/pull/5246)   | fix: resource schema validation in policies under any/all match                                           |
+| [#4938](https://github.com/kyverno/kyverno/pull/4938)   | added apiCalls support in kyverno-apply command                                                           |
+| [#4809](https://github.com/kyverno/kyverno/pull/4809)   | filter validation policies using ValidationFailureActionOverride                                          |
